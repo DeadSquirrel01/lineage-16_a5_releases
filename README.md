@@ -13,6 +13,7 @@ Flash twrp recovery
 Wipe system
 Wipe data, cache, and dalvik if youre using a different rom or android version (e.g. lineage 15.1), otherwise, if you are just updating lineageos 16.0 you won't have to do that.
 Flash lineageos 16.0 zip
+Optional but recommended: download and flash gapps
 Reboot
 
 Changelog will be available at: https://github.com/DeadSquirrel01/lineage-16_a5_releases/blob/master/changelog.txt when first build will be pushed.
