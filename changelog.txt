@@ -3,5 +3,8 @@ EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 Bug list:
 NFC
 
+2nd release: 20181017
+Reverted a commit that caused some phones to stuck at samsung logo during boot
+
 1st release: 20181015
 First release
