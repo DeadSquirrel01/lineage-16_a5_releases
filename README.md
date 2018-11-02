@@ -16,3 +16,7 @@ Optional but recommended: download and flash gapps <br />
 Reboot
 
 Changelog can be found at: https://github.com/DeadSquirrel01/lineage-16_a5_releases/blob/master/changelog.txt
+
+
+<b>Support</b>
+If you have any questions not related to ROM issues, or want to talk about this ROM or A5 modding, you can join http://t.me/galaxya5mod Telegram group
