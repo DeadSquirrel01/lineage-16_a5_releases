@@ -3,6 +3,11 @@ EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 Bug list:
 NFC
 
+3rd release: 20181102
+Fix FM Radio
+Support F2FS-formatted /data and /cache
+Switch from textrel blobs to non-textrel ones (audio libs from A3 and libmmcamera_faceproc from crackling)
+
 2nd release: 20181017
 Reverted a commit that caused some phones to stuck at samsung logo during boot
 
