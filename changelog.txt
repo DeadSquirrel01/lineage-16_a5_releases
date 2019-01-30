@@ -1,7 +1,15 @@
 EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 
 Bug list:
+Bluetooth Audio
 NFC
+
+4th release: 20190129
+Selinux is now enforcing
+Camera improvements and fix autofocus
+Fix DRM
+Fix items selection in USB tile
+Minor changes
 
 3rd release: 20181102
 Fix FM Radio
