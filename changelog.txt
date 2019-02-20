@@ -1,8 +1,14 @@
 EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 
 Bug list:
-Bluetooth Audio
 NFC
+
+5th release: 20190220
+Build audio and TFA9895 HALs from sources (and remove stock audio HAL)
+Fix bluetooth audio
+Fix echo on calls
+Fix long camera (and torch) turning on/off delays
+Update blobs to 6.0.1 A500FUXXU1CRH1
 
 4th release: 20190129
 Selinux is now enforcing
