@@ -1,7 +1,11 @@
 EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 
 Bug list:
+Second SIM for dual SIM variants
 NFC
+
+6th release: 20190225
+Support all SM-A500 variants (second sim doesnt work for ds devices)
 
 5th release: 20190220
 Build audio and TFA9895 HALs from sources (and remove stock audio HAL)
