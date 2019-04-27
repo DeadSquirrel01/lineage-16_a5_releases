@@ -3,6 +3,9 @@ EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 Bug list:
 NFC
 
+7th release: 20190427
+Fix selinux enforcing denials: fixes touchkey problems
+
 6th release: 20190328
 Fix device shutdowns due to low thermal-engine cpu critical temperature set
 sdcardfs kernel updates
