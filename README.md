@@ -37,10 +37,15 @@ Here are the RIL-fix zips. Make sure you install the one corresponding to your v
 LineageOS 16.0 releases can be found at https://github.com/DeadSquirrel01/lineage-16_a5_releases/releases
 
 
+<b>Donations</b> <br />
+If you want to buy me a coffe, you can send a donation to my paypal address: https://paypal.me/marcomarcaccini <br />
+However, that's an additional support you can give me, since a "thanks" or such is already rewarding for me :D
+
+
 Changelog can be found at: https://github.com/DeadSquirrel01/lineage-16_a5_releases/blob/master/changelog.txt
 
 
-<b>Support</b> <br />
+<b>ROM support</b> <br />
 If you have any questions not related to ROM issues, or want to talk about this ROM or A5 modding, you can join http://t.me/galaxya5mod Telegram group
 
 
