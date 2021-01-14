@@ -1,6 +1,7 @@
 # LineageOS 16 releases for galaxy a5, all SM-A500 variants
 
-<b>This project is currently discontinued, which means that it will no longer get updates</b>
+<b>This project is currently discontinued, which means that it will no longer get updates.
+Use LineageOS 17 releases [here](https://github.com/DeadSquirrel01/lineage-17_a5_releases).</b>
 
 This repo contains lineageos 16 builds for all Galaxy A5 SM-A500 variants!
 
